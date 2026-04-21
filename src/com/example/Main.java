@@ -9,13 +9,13 @@ public class Main {
        
         processor.addMethod(
             new CreditCard("1234-5678-9012-3456",
-                           "Alice Dupont", 500.0)
+                           "Khalil Fatima ezzahra ", 500.0)
         );
         processor.addMethod(
-            new PayPal("bob@example.com", 200.0)
+            new PayPal("khalilfatimaezzahra@gmail.com", 200.0)
         );
         processor.addMethod(
-            new Bitcoin("1A2b3C4d5E", 0.10) 
+            new Bitcoin("EE1111", 0.10) 
         );
 
       
